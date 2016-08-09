@@ -2,4 +2,6 @@
 puts 55.00 * 1.13
 
 
-#exercise 2 question 2 
+#exercise 2 question 2
+
+puts "Maria is " + 21.to_s
