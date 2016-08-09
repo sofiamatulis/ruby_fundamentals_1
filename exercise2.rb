@@ -9,4 +9,9 @@ puts "Maria is " + 21.to_s
 
 #exercise 2 question 3
 
-puts "this is the multiplication of two numbers that equals to  #{45628  * 7839 } "
+puts "this is the multiplication of two numbers that equals to  #{45628 * 7839}"
+
+#exercise 2 question 4
+
+
+puts (10 < 20 && 30 < 20) || !(10 == 11)
